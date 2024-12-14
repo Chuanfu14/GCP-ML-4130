@@ -4,6 +4,7 @@ The goal of this project is to predict Yelp review star ratings (on a scale of 1
 Dataset: https://www.yelp.com/dataset
 
 References:
+
 https://holowczak.com/running-jupyter-notebook-on-google-cloud-platform-dataproc/
 
 https://holowczak.com/creating-a-linux-virtual-machine-using-google-cloud-platform/2/
